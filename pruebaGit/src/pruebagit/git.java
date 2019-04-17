@@ -10,5 +10,6 @@ package pruebagit;
  * @author programador
  */
 public class git {
+    private git
     
 }
